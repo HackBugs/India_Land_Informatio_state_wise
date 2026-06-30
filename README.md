@@ -55,3 +55,28 @@ Each state has different websites and uses for land record management, property 
 
 - [Bihar Bhumi Jankari Advanced Search](https://bhumijankari.bihar.gov.in/BiharPortal/Admin/AdvSearch/AdvSearch.aspx)
 - [Bihar Jamabandi View](https://parimarjan.bihar.gov.in/biharBhumireport/ViewJamabandi)
+
+<HR> 
+
+> ## 2026 lattest link
+
+# Bihar Land Records & Revenue Portal Links
+
+## 1. Bhulagan (Online Land Revenue Payment)
+https://www.bhulagan.bihar.gov.in/citizen/search.aspx
+
+## 2. Bhumi Jankari (Advanced Search)
+https://bhumijankari.bihar.gov.in/BiharPortal/Admin/AdvSearch/AdvSearch.aspx
+
+## 3. Bihar RoR 2025 (Record of Rights)
+https://land.bihar.gov.in/Ror2025/RoR.aspx
+
+## 4. View RoR (Direct Record Link)
+https://land.bihar.gov.in/Ror2025/ViewRor.aspx?SId=dwhlmsd4l5upwmxzdv2xn0j1&DistCode=15&SubDivCode=2&CircleCode=4
+
+## 5. Parimarjan Plus (Application Tracking)
+https://parimarjanplus.bihar.gov.in/parimarjannew/trackapplication.aspx
+
+## 6. Bhu Abhilekh (Map Tracker)
+https://bhuabhilekh.bihar.gov.in/bhu-lekh/mapTracker
+2026 lattest link
