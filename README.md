@@ -58,7 +58,7 @@ Each state has different websites and uses for land record management, property 
 
 <HR> 
 
-> ## 2026 lattest link
+> # 2026 lattest link
 
 # Bihar Land Records & Revenue Portal Links
 
