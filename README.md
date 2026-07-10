@@ -79,3 +79,9 @@ https://parimarjanplus.bihar.gov.in/parimarjannew/trackapplication.aspx
 
 ## 6. Bhu Abhilekh (Map Tracker)
 https://bhuabhilekh.bihar.gov.in/bhu-lekh/mapTracker
+
+<HR>
+
+## link 🔗 download 🗺️ map Bihar Paid Original 
+
+- https://bhuabhilekh.bihar.gov.in/bhu-lekh/mapTracker
