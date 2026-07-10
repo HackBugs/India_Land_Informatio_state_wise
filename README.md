@@ -88,3 +88,5 @@ https://bhuabhilekh.bihar.gov.in/bhu-lekh/mapTracker
 
 2. https://emutation.bihar.gov.in/LRCRoRGistDemo/TransViewJamabandi.aspx
 3. https://emutation.bihar.gov.in/biharbhumidemo/default
+4.Land purchase records - 
+https://bhumijankari.bihar.gov.in/admin/advsearch/advsearch.aspx
